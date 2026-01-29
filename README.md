@@ -1,2 +1,2 @@
 # git-basic-demo
-Demo repo
+Demo repo for basics
